@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+  background-image: url(./img/laugh.jpg);
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  height: 120vh;
+  image-rendering: crisp-edges; 
+}
+
+
